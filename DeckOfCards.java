@@ -1,4 +1,4 @@
-package com.mycompany.deckshuffler;
+//package com.mycompany.deckshuffler;
 import java.security.SecureRandom;
 public class DeckOfCards {
     private Card[] deck;
