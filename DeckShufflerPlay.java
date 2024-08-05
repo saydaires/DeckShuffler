@@ -1,4 +1,4 @@
-package com.mycompany.deckshuffler;
+//package com.mycompany.deckshuffler;
 public class DeckShufflerPlay {
     public static void main(String[] args)
     {
